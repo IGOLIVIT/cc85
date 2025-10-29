@@ -1,0 +1,99 @@
+/* 
+  Localizable.strings
+  cc85
+  
+  Session ID: 2204
+*/
+
+// MARK: - Onboarding
+"onboarding.welcome.title" = "Welcome to GamePlus";
+"onboarding.welcome.description" = "Combine the excitement of gaming with powerful productivity tools to achieve your goals while having fun.";
+"onboarding.game.title" = "Engaging Game Mechanics";
+"onboarding.game.description" = "Play our tap-based game with dynamic difficulty. Unlock productivity tips as you level up and improve your skills.";
+"onboarding.tasks.title" = "Organize Your Tasks";
+"onboarding.tasks.description" = "Create and manage tasks with categories. Use the Pomodoro technique to stay focused and productive.";
+"onboarding.progress.title" = "Track Your Progress";
+"onboarding.progress.description" = "Build daily streaks, earn points, and watch your productivity soar. Every completed task and focus session counts!";
+"onboarding.button.next" = "Next";
+"onboarding.button.getStarted" = "Get Started";
+
+// MARK: - Game
+"game.title" = "GamePlus";
+"game.level" = "Level";
+"game.highScore" = "High Score";
+"game.current" = "Current";
+"game.readyToPlay" = "Ready to Play?";
+"game.tapCircle" = "Tap the circle as many times as you can before time runs out!";
+"game.startGame" = "Start Game";
+"game.endGame" = "End Game";
+"game.unlockedTips" = "Unlocked Tips";
+"game.viewAllTips" = "View All Tips";
+
+// MARK: - Tasks
+"tasks.title" = "Productivity";
+"tasks.streak" = "Streak";
+"tasks.tasks" = "Tasks";
+"tasks.focus" = "Focus";
+"tasks.points" = "Points";
+"tasks.showCompleted" = "Show Completed";
+"tasks.noTasks" = "No tasks yet";
+"tasks.addFirstTask" = "Tap the + button to add your first task";
+"tasks.newTask" = "New Task";
+"tasks.taskDetails" = "Task Details";
+"tasks.title.placeholder" = "Title";
+"tasks.description.placeholder" = "Description";
+"tasks.category" = "Category";
+"tasks.priority" = "Priority";
+"tasks.completed" = "Completed";
+"tasks.markComplete" = "Mark Complete";
+"tasks.markIncomplete" = "Mark Incomplete";
+"tasks.deleteTask" = "Delete Task";
+"tasks.add" = "Add";
+"tasks.cancel" = "Cancel";
+"tasks.done" = "Done";
+
+// MARK: - Pomodoro
+"pomodoro.title" = "Pomodoro Timer";
+"pomodoro.focusTime" = "Focus Time";
+"pomodoro.breakTime" = "Break Time";
+"pomodoro.readyToFocus" = "Ready to Focus?";
+"pomodoro.description" = "Use the Pomodoro technique to maintain focus and productivity.";
+"pomodoro.startFocus" = "Start Focus Session";
+"pomodoro.startBreak" = "Start Break";
+"pomodoro.sessionsCompleted" = "Sessions completed: %d";
+
+// MARK: - Settings
+"settings.title" = "Settings";
+"settings.appName" = "GamePlus";
+"settings.version" = "Version 1.0.0";
+"settings.sessionId" = "Session ID: 2204";
+"settings.dailyStreak" = "Daily Streak";
+"settings.preferences" = "Preferences";
+"settings.notifications" = "Notifications";
+"settings.sound" = "Sound Effects";
+"settings.haptics" = "Haptic Feedback";
+"settings.pomodoroSettings" = "Pomodoro Settings";
+"settings.workDuration" = "Work Duration";
+"settings.breakDuration" = "Break Duration";
+"settings.about" = "About";
+"settings.aboutDescription" = "GamePlus combines the excitement of gaming with powerful productivity tools. Play engaging games, unlock productivity tips, manage tasks, and use the Pomodoro technique to achieve your goals.";
+"settings.developer" = "Developer";
+"settings.developerName" = "GamePlus Team";
+"settings.category" = "Category";
+"settings.categoryName" = "Productivity & Games";
+"settings.requires" = "Requires";
+"settings.requiresVersion" = "iOS 15.6 or later";
+"settings.dataManagement" = "Data Management";
+"settings.resetData" = "Reset All Application Data";
+"settings.resetConfirmTitle" = "Reset All Data";
+"settings.resetConfirmMessage" = "This will permanently delete all your tasks, game progress, and settings. This action cannot be undone.";
+"settings.reset" = "Reset";
+
+// MARK: - Notifications
+"notification.taskReminder.title" = "Task Reminder";
+"notification.taskReminder.body" = "Don't forget: %@";
+"notification.pomodoroComplete.title" = "Pomodoro Complete!";
+"notification.pomodoroComplete.body" = "Great work! Time for a break.";
+"notification.breakComplete.title" = "Break Complete!";
+"notification.breakComplete.body" = "Ready to focus again?";
+
